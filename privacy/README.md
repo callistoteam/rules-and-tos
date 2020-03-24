@@ -1,6 +1,6 @@
-# Rules
+# Privacy Rules
 
-Rules for Discord Support Server
+Privacy Rules for service
 
 | Langauge        | Path           |
 | --------------- | -------------- |
