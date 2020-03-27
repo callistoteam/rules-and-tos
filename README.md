@@ -4,11 +4,12 @@
 
 This repository is for Team. Callisto `rules` and `tos` and more.
 
-| Document | Description                      | Path                 |
-| -------- | -------------------------------- | -------------------- |
-| rules    | Rules for Discord Support Server | [rules/](rules/)     |
-| tos      | Team. Callisto Terms of Service  | [tos/](tos/)         |
-| privacy  | Privacy Rules for service        | [privacy/](privacy/) |
+| Document | Description                        | Path                 |
+| -------- | ---------------------------------- | -------------------- |
+| rules    | Rules for Discord Support Server   | [rules/](rules/)     |
+| tos      | Team. Callisto Terms of Service    | [tos/](tos/)         |
+| privacy  | Privacy Rules for service          | [privacy/](privacy/) |
+| license  | Service Licenses of Team. Callisto | [license/](license/) |
 
 ### Support
 
@@ -29,6 +30,7 @@ This repository is for Team. Callisto `rules` and `tos` and more.
 | 규칙             | 지원 디스코드 서버를 위한 규칙  | [rules/](rules/)     |
 | 이용약관         | 팀 칼리스토의 사용자 이용약관   | [tos/](tos/)         |
 | 개인정보취급방침 | 서비스를 위한 개인정보 취급방침 | [privacy/](privacy/) |
+| 라이선스         | 팀 칼리스토의 서비스 라이선스   | [license/](license/) |
 
 ### 문의
 
